@@ -54,11 +54,13 @@ public class Lista implements ILista {
     }
 
     public String recorrer() {
+        // TODO
         return "";
     }
 
     public void insertar(String elemento) {
         Nodo n = new Nodo(elemento);
+        // TODO
         // donde se inserta???
         // al frente?
         // al final?
@@ -67,6 +69,7 @@ public class Lista implements ILista {
 
     public boolean eliminar(String elemento) {
         // elimina a un elemento especifico
+        // TODO
         return false;
     }
 
